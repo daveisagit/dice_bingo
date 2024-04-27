@@ -1,3 +1,10 @@
+# Dice Bingo
+A Mathsjam puzzle posed in May 22
+
+![png](dicebingo.png)
+
+This a jupyter notebook to better understand what is going on
+
 ```python
 # all the possible rolls
 possible_values = [2, 3, 4, 5, 6]
